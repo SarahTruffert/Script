@@ -1,8 +1,10 @@
 # Script : installer environnement de travail :
 
-#sudo= Executer qqch sur l'ordinateur comme super admin avec droits de modification.
+#sudo: Executer qqch sur l'ordinateur comme super admin avec droits de modification.
 #apt-get install : recherche uptdate et installe.
-#snap : Permet de chercher ce qui est téléchargeable et installable 
+#snap : Permet de chercher ce qui est téléchargeable et installable.
+#get : à utiliser en ligne de commande = installation et la désinstallation de paquets en provenance d'un dépôt APT. 
+#echo : comme print sur python 
 
 
 Pour lancer script :
