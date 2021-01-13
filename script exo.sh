@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "UBUNTU POST-INSTALL SCRIPT"
 echo "Updating APT..."
 sudo apt-get update 
@@ -8,3 +9,4 @@ sudo apt-get install --yes git git-extras build-essential python3-pip htop glanc
 -O vscode.deb
 sudo dpkg -i ./vscode.deb
 sudo apt-get install -f
+sudo snap install discord
