@@ -8,7 +8,7 @@
 
 
 Pour lancer script :
-#./nom_du_script.sh, faite la commande : sed -i -e 's/\r$//'  nom_du_script.sh
+#./nom_du_script.sh, faites la commande : sed -i -e 's/\r$//'  nom_du_script.sh
 
 
 Début du script : 
